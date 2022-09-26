@@ -1,0 +1,21 @@
+{
+  "name": "aurora-theme",
+  "displayName": "Aurora Theme",
+  "description": "A theme based on Ray-x's beautiful aurora Neovim colorscheme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora-color-theme.json"
+      }
+    ]
+  }
+}
