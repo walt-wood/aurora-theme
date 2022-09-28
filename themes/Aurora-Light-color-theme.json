@@ -323,10 +323,11 @@
         "editor.foreground": "#F8F8F2",
         "editorWhitespace.foreground": "#1A1926",
         "editor.selectionBackground": "#646475",
-        "editorWidget.background": "#141425",
-        "textLink.foreground": "#9E71CF",
-        "textLink.activeForeground": "#ff0000",
-        "textPreformat.foreground": "#ff0000",
+        "editorWidget.background": "#070510",
+        "editor.findMatchBackground": "#9E71CF",
+        "editor.findMatchHighlightBackground":"#4D0C5D",
+        "textLink.foreground": "#FF6347",
+        "textLink.activeForeground": "#FF6347",
         "panel.background": "#141425", // 0
         "panelSectionHeader.background": "#070510", //0
         "input.background": "#141425", 
@@ -336,8 +337,8 @@
         "inputValidation.warningBorder": "#9E71CF",
         "sideBar.background": "#141425", // 0
         "sideBarSectionHeader.background": "#070510", // 0
-        "dropdown.background": "#141425",
-        "dropdown.listBackground": "#070510", // 0        
+        "dropdown.background": "#070510",
+        "dropdown.listBackground": "#141425", // 0        
         "list.hoverBackground": "#141425", // Also controls error box hover.
         "list.activeSelectionBackground": "#070510", // 0
         "list.focusAndSelectionOutline": "#141425", 
