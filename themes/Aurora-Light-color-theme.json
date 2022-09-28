@@ -336,7 +336,8 @@
         "inputOption.activeBorder": "#9E71CF",
         "inputValidation.warningBorder": "#9E71CF",
         "sideBar.background": "#141425",  
-        "sideBarSectionHeader.background": "#141425",  
+        "sideBarSectionHeader.background": "#141425",
+        "sideBar.border": "#070510",
         "dropdown.background": "#070510",
         "dropdown.listBackground": "#141425",          
         "list.hoverBackground": "#070510", // Also controls error box hover.
