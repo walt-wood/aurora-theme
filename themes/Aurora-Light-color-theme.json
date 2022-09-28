@@ -148,7 +148,7 @@
                 "entity.name.tag.html"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "",
                 "foreground": "#71C3E3"
             }
         },
@@ -234,7 +234,7 @@
         },
         {
             "name": "Macro",
-            "scope": "namespace",
+            "scope": "entity.name.function.preprocessor",
             "settings": {
                 "foreground": "#ECECEC",
                 "fontStyle": "bold"
