@@ -309,7 +309,7 @@
         },
         {
             "name": "JSON keys",
-            "scope": "support.type.property-name.json.comments",
+            "scope": "support.type.property-name.json",
             "settings": {
                 "foreground": "#ADDB67",
                 "fontStyle": "italic"
