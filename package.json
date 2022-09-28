@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aurora",
+        "label": "Aurora Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Aurora-color-theme.json"
+        "path": "./themes/Aurora-Dark-color-theme.json"
+      },
+      {
+        "label": "Aurora Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora-Light-color-theme.json"
       }
     ]
   }
