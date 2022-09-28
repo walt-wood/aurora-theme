@@ -311,14 +311,14 @@
             "name": "JSON keys",
             "scope": "support.type.property-name.json.comments",
             "settings": {
-                "foreground": "#ADDb67",
+                "foreground": "#ADDB67",
                 "fontStyle": "italic"
             }
         }
     ],
     "colors": {
         "focusBorder": "#9E71CF",
-        "editor.background": "#141425", // 0
+        "editor.background": "#141425",  
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
         "editorWhitespace.foreground": "#1A1926",
@@ -328,32 +328,32 @@
         "editor.findMatchHighlightBackground":"#4D0C5D",
         "textLink.foreground": "#FF6347",
         "textLink.activeForeground": "#FF6347",
-        "panel.background": "#141425", // 0
-        "panelSectionHeader.background": "#070510", //0
+        "panel.background": "#141425",  
+        "panelSectionHeader.background": "#070510",
         "input.background": "#141425", 
         "input.border": "#9E71CF",
         "inputValidation.infoBorder": "#9E71CF",
         "inputOption.activeBorder": "#9E71CF",
         "inputValidation.warningBorder": "#9E71CF",
-        "sideBar.background": "#141425", // 0
-        "sideBarSectionHeader.background": "#070510", // 0
+        "sideBar.background": "#141425",  
+        "sideBarSectionHeader.background": "#141425",  
         "dropdown.background": "#070510",
-        "dropdown.listBackground": "#141425", // 0        
-        "list.hoverBackground": "#141425", // Also controls error box hover.
-        "list.activeSelectionBackground": "#070510", // 0
+        "dropdown.listBackground": "#141425",          
+        "list.hoverBackground": "#070510", // Also controls error box hover.
+        "list.activeSelectionBackground": "#070510",  
         "list.focusAndSelectionOutline": "#141425", 
         "list.inactiveSelectionBackground": "#141425",
         "list.focusOutline": "#9E71CF",
         "listFilterWidget.background": "#141425",
-        "activityBar.background": "#070510", // 0
+        "activityBar.background": "#070510",  
         "tab.inactiveBackground": "#070510", 
-        "editorGroupHeader.tabsBackground": "#070510", // 0
+        "editorGroupHeader.tabsBackground": "#070510",  
         "statusBar.background": "#9E71CF",
         "statusBar.noFolderBackground": "#9E71CF",
         "statusBar.debuggingBackground": "#9E71CF",
         "statusBarItem.remoteBackground": "#FF6347",
-        "titleBar.activeBackground": "#070510", // 0
-        "menu.background": "#070510", // 0
+        "titleBar.activeBackground": "#070510",  
+        "menu.background": "#070510",  
         "menu.selectionBackground": "#141425",
         "menubar.selectionBackground": "#141425", // F
         "button.background": "#1ABC9C",
