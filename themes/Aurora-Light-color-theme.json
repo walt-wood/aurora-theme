@@ -148,7 +148,7 @@
                 "entity.name.tag.html"
             ],
             "settings": {
-                "fontStyle": "",
+                "fontStyle": "bold",
                 "foreground": "#71C3E3"
             }
         },
