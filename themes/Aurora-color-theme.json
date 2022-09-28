@@ -298,12 +298,6 @@
             }
         },
         {
-            "name": "Brackets",
-            "scope": [
-
-            ]
-        },
-        {
             "name": "variable.other.property",
             "scope": [
                 "variable.other.property"
