@@ -322,8 +322,11 @@
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
         "editorWhitespace.foreground": "#1A1926",
-        "editor.selectionBackground": "#1A1926",
+        "editor.selectionBackground": "#646475",
         "editorWidget.background": "#141425",
+        "textLink.foreground": "#9E71CF",
+        "textLink.activeForeground": "#ff0000",
+        "textPreformat.foreground": "#ff0000",
         "panel.background": "#141425", // 0
         "panelSectionHeader.background": "#070510", //0
         "input.background": "#141425", 
