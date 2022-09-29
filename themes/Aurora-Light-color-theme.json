@@ -94,10 +94,10 @@
         {
             "name": "Logical Operators",
             "scope": [
-                "keyword.operator.logical"
+                "keyword.operator"
             ],
             "settings": {
-                "foreground": "#FF6347",
+                "foreground": "#A1EFE4",
                 "fontStyle": "bold"
             }
         },
@@ -285,16 +285,6 @@
             "settings": {
                 "foreground": "#EE82EE",
                 "fontStyle": "italic bold"
-            }
-        },
-        {
-            "name": "Sizeof",
-            "scope": [
-                "keyword.operator.sizeof.c"
-            ],
-            "settings": {
-                "foreground": "#A1EFE4",
-                "fontStyle": "bold"
             }
         },
         {
