@@ -49,7 +49,7 @@
             "scope": "constant.language",
             "settings": {
                 "foreground": "#AE81EF",
-                "fontStyle": "italic bold"
+                "fontStyle": "italic bold",                
             }
         },
         {

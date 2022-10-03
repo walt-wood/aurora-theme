@@ -1,16 +1,17 @@
 # aurora-theme README
 
-## Working with Markdown
+## About
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+  This theme is based on Ray-x's Aurora color scheme for Neovim with Treesitter, so credit goes to them.
+  Feel free to fork it and make it your own.
+  * [Github Repo](https://github.com/walt-wood/aurora-theme)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
+
+  Clone to C:\Users\<username>\.vscode\extensions
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+  * [Visual Studio Code's Theme Definitions](https://code.visualstudio.com/api/references/theme-color#text-colors)
 
 **Enjoy!**
