@@ -290,7 +290,8 @@
         {
             "name": "variable.other.property",
             "scope": [
-                "variable.other.property"
+                "variable.other.property",
+                "support.function.builtin.shell"
             ],
             "settings": {
                 "foreground": "#10AEFF",
