@@ -338,6 +338,7 @@
         "sideBar.background": "#070510",  
         "sideBarSectionHeader.background": "#141425",
         "sideBar.border": "#141425",
+        "minimap.background": "#070510",
         "dropdown.background": "#070510",
         "dropdown.listBackground": "#141425",          
         "list.hoverBackground": "#070510", // Also controls error box hover unless it too is set.
