@@ -2,9 +2,7 @@
 
 ## About
 
-  This theme is based on Ray-x's Aurora color scheme for Neovim with Treesitter, so credit goes to them.
-  Since C is the language used for my job, it is the only languaged supported. Some minor testing was
-  done on HTML, JavaScript, and C++, but use at your own peril.
+  This theme is based on Ray-x's Aurora color scheme for Neovim with Treesitter, so credit goes to them.  Since C is the language used for my job, it is the only one supported. Some minor testing was done on HTML, JavaScript, and C++, but use at your own peril.
 
   Feel free to fork it and make it your own.
   * [Github Repo](https://github.com/walt-wood/aurora-theme)
