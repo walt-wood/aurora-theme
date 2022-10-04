@@ -11,7 +11,7 @@
 
 ## Installation
 
-  Clone to C:\%USERPROFILE%\.vscode\extensions.
+  Clone to C:/%USERPROFILE%/.vscode/extensions.
   Use Ctrl + K + T for theme options, and select Aurora Dark or Aurora Light.
 
 ## For more information
