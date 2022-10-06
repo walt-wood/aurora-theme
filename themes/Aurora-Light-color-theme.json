@@ -33,7 +33,7 @@
             "scope": "constant.other.placeholder",
             "settings": {
                 "foreground": "#50C878",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -122,7 +122,7 @@
             "scope": "storage.type.built-in.primitive",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#1ABC9C"
+                "foreground": "#7FDBCA"
             }
         },
         {
@@ -294,7 +294,7 @@
                 "support.function.builtin.shell"
             ],
             "settings": {
-                "foreground": "#10AEFF",
+                "foreground": "#0fb9e0",
                 "fontStyle": ""
             }
         },
