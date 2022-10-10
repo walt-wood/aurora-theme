@@ -315,6 +315,30 @@
                 "foreground": "#ADDb67",
                 "fontStyle": "italic"
             }
+        },
+        {
+            "name": "Makefile Variable",
+            "scope": "variable.other.makefile",
+            "settings": {
+                "foreground": "#EE82EE",
+                "fontStyle": "italic"
+            }
+        },        
+        {
+            "name": "variable.language.makefile",
+            "scope": "variable.language.makefile",
+            "settings": {
+                "foreground": "#FF7F50",
+                "fontStyle": ""
+            }
+        },        
+        {
+            "name": "meta.scope.prerequisites.makefile",
+            "scope": "meta.scope.prerequisites.makefile",
+            "settings": {
+                "foreground": "#BE9AF7",
+                "fontStyle": ""
+            }
         }
     ],
     "colors": {
