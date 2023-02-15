@@ -98,7 +98,7 @@
             ],
             "settings": {
                 "foreground": "#A1EFE4",
-                "fontStyle": "bold"
+                "fontStyle": "italic bold"
             }
         },
         {
@@ -121,7 +121,7 @@
             "name": "Storage type",
             "scope": "storage.type.built-in.primitive",
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "italic bold",
                 "foreground": "#7FDBCA"
             }
         },
@@ -180,8 +180,8 @@
             "name": "Library function",
             "scope": "support.function",
             "settings": {
-                "fontStyle": "bold underline",
-                "foreground": "#FF6347"
+                "fontStyle": "italic",
+                "foreground": "#d7ffaf"
             }
         },
         {
@@ -249,6 +249,22 @@
             }
         },
         {
+            "name": "punctuation.terminator.statement",
+            "scope": "punctuation.terminator.statement",
+            "settings": {
+                "foreground": "#FF7F50",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "punctuation.separator.delimiter",
+            "scope": "punctuation.separator.delimiter",
+            "settings": {
+                "foreground": "#9E71CF",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "keyword.control.directive",
             "scope": "keyword.control.directive",
             "settings": {
@@ -285,6 +301,14 @@
             "settings": {
                 "foreground": "#EE82EE",
                 "fontStyle": "italic bold"
+            }
+        },
+        {
+            "name": "Typedef",
+            "scope": "keyword.other.typedef.c",
+            "settings": {
+                "foreground": "#10aeff",
+                "fontStyle": "italic"
             }
         },
         {

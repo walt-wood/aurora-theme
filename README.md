@@ -6,6 +6,11 @@
 
   Feel free to fork it and make it your own.
   * [Github Repo](https://github.com/walt-wood/aurora-theme)
+  
+  I think it looks better with the Hack font or Fira Code.
+  * [Hack Font](https://github.com/source-foundry/Hack)
+  * [Fira Code Font](https://github.com/tonsky/FiraCode)
+  
 
 ## Installation
 
