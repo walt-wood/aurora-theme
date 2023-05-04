@@ -304,6 +304,30 @@
             }
         },
         {
+            "name": "Java Class Instance Name",
+            "scope": "variable.other.object.java",
+            "settings": {
+                "foreground": "#FF7F50",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "name": "Java Class Name",
+            "scope": "entity.name.type.class.java",
+            "settings": {
+                "foreground": "#addb67",
+                "fontStyle": "bold underline"
+            }
+        },
+        {
+            "name": "Java Class Storage Type",
+            "scope": "storage.type.java",
+            "settings": {
+                "foreground": "#addb67",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
             "name": "Typedef",
             "scope": "keyword.other.typedef.c",
             "settings": {
