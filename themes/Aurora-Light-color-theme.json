@@ -387,7 +387,24 @@
                 "foreground": "#BE9AF7",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "support.function.builtin.shell",
+            "scope": "support.function.builtin.shell",
+            "settings": {
+                "foreground": "#71C3E3",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "string.unquoted.argument.shell",
+            "scope": "string.unquoted.argument.shell",
+            "settings": {
+                "foreground": "#BE9AF7",
+                "fontStyle": ""
+            }
         }
+
     ],
     "colors": {
         // #0e0a1f may be better
@@ -464,7 +481,8 @@
         "editorBracketHighlight.foreground4": "#f4d554",
         "editorBracketHighlight.foreground5": "#ff6347",
         "editorBracketHighlight.foreground6": "#f92772",
-        "editorLineNumber.foreground": "#777777"
+        "editorLineNumber.foreground": "#777777",
+        "terminal.background": "#282839"
     },
     "name": "Aurora Light"
 }
