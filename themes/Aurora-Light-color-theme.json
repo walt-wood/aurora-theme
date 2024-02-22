@@ -82,16 +82,6 @@
             }
         },
         {
-            "name": "BashEndIf",
-            "scope": [
-                "entity.name.command.shell"
-            ],
-            "settings": {
-                "foreground": "#FF6347",
-                "fontStyle": "italic"
-            }
-        },
-        {
             "name": "Break",
             "scope": [
                 "keyword.control.c"                
@@ -324,8 +314,7 @@
         {
             "name": "variable.other.property",
             "scope": [
-                "variable.other.property",
-                "support.function.builtin.shell"
+                "variable.other.property"
             ],
             "settings": {
                 "foreground": "#0fb9e0",
@@ -390,7 +379,9 @@
         },
         {
             "name": "support.function.builtin.shell",
-            "scope": "support.function.builtin.shell",
+            "scope": [
+                "support.function.builtin.shell"
+            ],
             "settings": {
                 "foreground": "#71C3E3",
                 "fontStyle": "bold"
@@ -403,20 +394,40 @@
                 "foreground": "#BE9AF7",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "keyword.control.shell",
+            "scope": [
+                "keyword.control.shell",
+                "keyword.control.then.shell",
+                "entity.name.command.shell"
+            ],
+            "settings": {
+                "foreground": "#FF7F50",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "name": "variable.other.normal.shell",
+            "scope": "variable.other.normal.shell",
+            "settings": {
+                "foreground": "#FBEC9F",
+                "fontStyle": ""
+            }
         }
 
     ],
     "colors": {
         // #0e0a1f may be better
         "focusBorder": "#9E71CF",
-        "editor.background": "#141425",  
+        "editor.background": "#1E1E2F",  
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
         "editorWhitespace.foreground": "#1A1926",
         "editor.selectionBackground": "#646475",
-        "editorWidget.background": "#070510",
+        "editorWidget.background": "#1E1E2F",
         "editor.findMatchBackground": "#9E71CF",
-        "editor.findMatchHighlightBackground":"#4D0C5D",
+        "editor.findMatchHighlightBackground":"#5c5441",
         "editorSuggestWidget.background": "#141425",
         "editorSuggestWidget.selectedBackground": "#646475",
         "editor.hoverHighlightBackground": "#646475",
@@ -434,13 +445,13 @@
         "inputOption.activeBorder": "#9E71CF",
         "inputOption.hoverBackground": "#141425",
         "inputValidation.warningBorder": "#9E71CF",
-        "sideBar.background": "#070510",  
+        "sideBar.background": "#1E1E2F",  
         "sideBarSectionHeader.background": "#141425",
         "sideBar.border": "#141425",
-        "minimap.background": "#070510",
-        "dropdown.background": "#070510",
+        "minimap.background": "#19192A",
+        "dropdown.background": "#141425",
         "dropdown.listBackground": "#141425",          
-        "list.hoverBackground": "#070510", // Also controls error box hover unless it too is set.
+        "list.hoverBackground": "#141425", // Also controls error box hover unless it too is set.
         "list.activeSelectionBackground": "#141425",  
         "list.focusAndSelectionOutline": "#141425", 
         "list.inactiveSelectionBackground": "#141425",
@@ -449,8 +460,8 @@
         "activityBar.background": "#141425",
         "activityBar.activeBorder": "#1ABC9C",
         "activityBarBadge.background":"#1ABC9C",
-        "tab.inactiveBackground": "#070510", 
-        "editorGroupHeader.tabsBackground": "#070510",  
+        "tab.inactiveBackground": "#141425", 
+        "editorGroupHeader.tabsBackground": "#1E1E2F",  
         "statusBar.background": "#9E71CF",
         "statusBar.noFolderBackground": "#9E71CF",
         "statusBar.debuggingBackground": "#9E71CF",
@@ -459,7 +470,7 @@
         "titleBar.inactiveBackground": "#141425",
         "toolbar.hoverBackground": "#141425",        
         "menu.background": "#141425",  
-        "menu.selectionBackground": "#070510",
+        "menu.selectionBackground": "#141425",
         "menubar.selectionBackground": "#141425", // F
         "debugToolBar.background":"#141425",
         "notificationsErrorIcon.foreground": "#FF6347",
@@ -482,7 +493,7 @@
         "editorBracketHighlight.foreground5": "#ff6347",
         "editorBracketHighlight.foreground6": "#f92772",
         "editorLineNumber.foreground": "#777777",
-        "terminal.background": "#282839"
+        "terminal.background": "#1E1E2F"
     },
     "name": "Aurora Light"
 }

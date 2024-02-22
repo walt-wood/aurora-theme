@@ -390,7 +390,9 @@
         },
         {
             "name": "support.function.builtin.shell",
-            "scope": "support.function.builtin.shell",
+            "scope": [
+                "support.function.builtin.shell"
+            ],
             "settings": {
                 "foreground": "#71C3E3",
                 "fontStyle": "bold"
@@ -401,6 +403,26 @@
             "scope": "string.unquoted.argument.shell",
             "settings": {
                 "foreground": "#BE9AF7",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "keyword.control.shell",
+            "scope": [
+                "keyword.control.shell",
+                "keyword.control.then.shell",
+                "entity.name.command.shell"
+            ],
+            "settings": {
+                "foreground": "#FF7F50",
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "name": "variable.other.normal.shell",
+            "scope": "variable.other.normal.shell",
+            "settings": {
+                "foreground": "#FBEC9F",
                 "fontStyle": ""
             }
         }
