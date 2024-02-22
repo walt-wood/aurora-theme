@@ -400,7 +400,10 @@
             "scope": [
                 "keyword.control.shell",
                 "keyword.control.then.shell",
-                "entity.name.command.shell"
+                "entity.name.command.shell",
+                "keyword.control.foreach.shell",
+                "keyword.control.end.shell",
+                "keyword.control.else.shell"
             ],
             "settings": {
                 "foreground": "#FF7F50",
