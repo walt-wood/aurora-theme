@@ -353,7 +353,7 @@
             ],
             "settings": {
                 "foreground": "#0fb9e0",
-                "fontStyle": ""
+                "fontStyle": "italic bold"
             }
         },
         {
@@ -432,6 +432,7 @@
     ],
     "colors": {
         "focusBorder": "#9E71CF",
+        "panel.border": "#1ABC9C",
         "editor.background": "#070510", 
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
