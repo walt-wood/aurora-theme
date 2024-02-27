@@ -423,7 +423,7 @@
     "colors": {
         // #0e0a1f may be better
         "focusBorder": "#9E71CF",
-        "panel.border": "#1ABC9C",        
+        "panel.border": "#9E71CF",        
         "editor.background": "#1E1E2F",  
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
