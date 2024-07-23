@@ -82,16 +82,6 @@
             }
         },
         {
-            "name": "BashEndIf",
-            "scope": [
-                "entity.name.command.shell"
-            ],
-            "settings": {
-                "foreground": "#FF6347",
-                "fontStyle": "bold"
-            }
-        },
-        {
             "name": "Break",
             "scope": [
                 "keyword.control.c"                
