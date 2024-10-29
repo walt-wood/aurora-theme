@@ -430,7 +430,7 @@
         "editorWhitespace.foreground": "#1A1926",
         "editor.selectionBackground": "#646475",
         "editorWidget.background": "#1E1E2F",
-        "editor.findMatchBackground": "#9E71CF",
+        "editor.findMatchBackground": "#818585",
         "editor.findMatchHighlightBackground":"#5c5441",
         "editorSuggestWidget.background": "#141425",
         "editorSuggestWidget.selectedBackground": "#646475",
