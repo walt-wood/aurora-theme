@@ -417,6 +417,14 @@
                 "foreground": "#FBEC9F",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "entity.name.tag.yaml",
+            "scope": "entity.name.tag.yaml",
+            "settings": {
+                "foreground": "#71C3E3",
+                "fontStyle": "bold"
+            }
         }
 
     ],
